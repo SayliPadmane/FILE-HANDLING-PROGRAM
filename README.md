@@ -51,3 +51,6 @@ Throughout the program, user experience is paramount. We include prompts, instru
 
 Finally, a clean exit option allows users to conclude their interaction with the program gracefully. We ensure that farewell messages instill a sense of satisfaction, leaving users confident in their ability to navigate file operations.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/4dbc9996-ed27-4a72-bca0-5fc91e39ad26)
